@@ -1,0 +1,58 @@
+body
+{
+    background-image: url('https://i.ibb.co/PDrCkFV/Whats-App-Image-2024-03-21-at-18-12-06.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    font-family: Poppins 'sans-serif';
+    color: white; 
+}
+
+p{
+    font-family: Poppins 'sans-serif';
+    color: white; 
+}
+#events .event .details .social {
+    height: 30px;
+
+}
+
+#events-details .details .social {
+    margin-bottom: 15px;
+  }
+  
+#events-details .details .social a {
+    background: #e9edfb;
+    color: #112363;
+    line-height: 1;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding-top: 9px;
+  }
+  
+#events-details .details .social a:hover {
+    background: #f82249;
+    color: #fff;
+  }
+
+#events .event .details a {
+    color: #fff;
+}
+
+#events-details .details .social a i {
+    font-size: 18px;
+  }
+
+#events .event .details a:hover {
+    color: #f82249;
+}
+
+#events .event:hover .details {
+    bottom: 0;
+}
+
